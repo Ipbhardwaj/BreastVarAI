@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "BreastVarAI: An Interpretable Machine Learning Framework for Predicting Structural Impact of Breast Cancer Variants"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Bhardwaj"
+    given-names: "Ishaan"
+repository-code: "https://github.com/Ipbhardwaj/BreastVarAI"
+keywords:
+  - breast-cancer
+  - structural-bioinformatics
+  - machine-learning
+  - explainable-ai
+  - alphafold
+license: MIT
+version: 0.1.0
+date-released: 2026-07-27
