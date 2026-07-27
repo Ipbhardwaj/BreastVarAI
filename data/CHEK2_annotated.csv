@@ -1,0 +1,31 @@
+clinvar_id,gene_symbol,uniprot_id,variant_title,protein_position,ref_aa,alt_aa,is_in_functional_domain,domain_name,clinical_significance,target_class
+4798103,CHEK2,O96017,NM_007194.4(CHEK2):c.962A>T (p.Glu321Val),321,Glu,Val,1,Protein kinase,Uncertain significance,0
+4768296,CHEK2,O96017,NM_007194.4(CHEK2):c.1514C>T (p.Ser505Phe),505,Ser,Phe,0,None,Uncertain significance,0
+4737665,CHEK2,O96017,NM_007194.4(CHEK2):c.500G>C (p.Gly167Ala),167,Gly,Ala,1,FHA,Uncertain significance,0
+4735450,CHEK2,O96017,NM_007194.4(CHEK2):c.289T>A (p.Trp97Arg),97,Trp,Arg,0,None,Uncertain significance,0
+4734518,CHEK2,O96017,NM_007194.4(CHEK2):c.1588G>T (p.Ala530Ser),530,Ala,Ser,0,None,Uncertain significance,0
+4731866,CHEK2,O96017,NM_007194.4(CHEK2):c.866A>C (p.Lys289Thr),289,Lys,Thr,1,Protein kinase,Uncertain significance,0
+4731716,CHEK2,O96017,NM_007194.4(CHEK2):c.1619C>A (p.Ala540Asp),540,Ala,Asp,0,None,Uncertain significance,0
+4730764,CHEK2,O96017,NM_007194.4(CHEK2):c.1174G>T (p.Ala392Ser),392,Ala,Ser,1,Protein kinase,Uncertain significance,0
+4730759,CHEK2,O96017,NM_007194.4(CHEK2):c.1320C>G (p.Ile440Met),440,Ile,Met,1,Protein kinase,Uncertain significance,0
+4730155,CHEK2,O96017,NM_007194.4(CHEK2):c.587A>C (p.Asn196Thr),196,Asn,Thr,0,None,Uncertain significance,0
+4728215,CHEK2,O96017,NM_007194.4(CHEK2):c.524T>A (p.Val175Glu),175,Val,Glu,1,FHA,Uncertain significance,0
+4727805,CHEK2,O96017,NM_007194.4(CHEK2):c.444G>C (p.Arg148Ser),148,Arg,Ser,1,FHA,Likely pathogenic,0
+4727632,CHEK2,O96017,NM_007194.4(CHEK2):c.1091T>G (p.Ile364Arg),364,Ile,Arg,1,Protein kinase,Uncertain significance,0
+4723855,CHEK2,O96017,NM_007194.4(CHEK2):c.1008G>T (p.Gln336His),336,Gln,His,1,Protein kinase,Uncertain significance,0
+4723815,CHEK2,O96017,NM_007194.4(CHEK2):c.1493T>A (p.Leu498His),498,Leu,His,0,None,Uncertain significance,0
+4723696,CHEK2,O96017,NM_007194.4(CHEK2):c.322T>G (p.Cys108Gly),108,Cys,Gly,0,None,Uncertain significance,0
+4722902,CHEK2,O96017,NM_007194.4(CHEK2):c.65A>T (p.His22Leu),22,His,Leu,0,None,Uncertain significance,0
+4721311,CHEK2,O96017,NM_007194.4(CHEK2):c.991A>T (p.Met331Leu),331,Met,Leu,1,Protein kinase,Uncertain significance,0
+4721210,CHEK2,O96017,NM_007194.4(CHEK2):c.475T>G (p.Tyr159Asp),159,Tyr,Asp,1,FHA,Uncertain significance,0
+4721015,CHEK2,O96017,NM_007194.4(CHEK2):c.1498T>C (p.Ser500Pro),500,Ser,Pro,0,None,Uncertain significance,0
+4720395,CHEK2,O96017,NM_007194.4(CHEK2):c.892T>A (p.Tyr298Asn),298,Tyr,Asn,1,Protein kinase,Uncertain significance,0
+4719723,CHEK2,O96017,NM_007194.4(CHEK2):c.395G>C (p.Arg132Thr),132,Arg,Thr,1,FHA,Uncertain significance,0
+4719083,CHEK2,O96017,NM_007194.4(CHEK2):c.314A>T (p.Asn105Ile),105,Asn,Ile,0,None,Uncertain significance,0
+4718924,CHEK2,O96017,NM_007194.4(CHEK2):c.1131G>T (p.Glu377Asp),377,Glu,Asp,1,Protein kinase,Uncertain significance,0
+4718867,CHEK2,O96017,NM_007194.4(CHEK2):c.586A>C (p.Asn196His),196,Asn,His,0,None,Uncertain significance,0
+4718565,CHEK2,O96017,NM_007194.4(CHEK2):c.402T>A (p.Asp134Glu),134,Asp,Glu,1,FHA,Uncertain significance,0
+4718177,CHEK2,O96017,NM_007194.4(CHEK2):c.571C>A (p.Leu191Met),191,Leu,Met,0,None,Uncertain significance,0
+4717032,CHEK2,O96017,NM_007194.4(CHEK2):c.263C>T (p.Pro88Leu),88,Pro,Leu,0,None,Uncertain significance,0
+4715708,CHEK2,O96017,NM_007194.4(CHEK2):c.139C>T (p.Pro47Ser),47,Pro,Ser,0,None,Uncertain significance,0
+4714466,CHEK2,O96017,NM_007194.4(CHEK2):c.1076A>T (p.Glu359Val),359,Glu,Val,1,Protein kinase,Uncertain significance,0

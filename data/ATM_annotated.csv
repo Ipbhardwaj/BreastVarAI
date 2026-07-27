@@ -1,0 +1,31 @@
+clinvar_id,gene_symbol,uniprot_id,variant_title,protein_position,ref_aa,alt_aa,is_in_functional_domain,domain_name,clinical_significance,target_class
+4854878,ATM,Q13315,NM_000051.4(ATM):c.3254T>G (p.Val1085Gly),1085.0,Val,Gly,0,None,Uncertain significance,0
+4849130,ATM,Q13315,NC_000011.9:g.(108150336_108151721)_(108239830_?)del,,,,0,None,Pathogenic,1
+4841353,ATM,Q13315,NM_000051.4(ATM):c.4109G>T (p.Gly1370Val),1370.0,Gly,Val,0,None,Uncertain significance,0
+4811706,ATM,Q13315,NM_000051.4(ATM):c.6172T>C (p.Ser2058Pro),2058.0,Ser,Pro,1,FAT,Uncertain significance,0
+4810399,ATM,Q13315,NM_000051.4(ATM):c.4405A>G (p.Ile1469Val),1469.0,Ile,Val,0,None,Uncertain significance,0
+4809811,ATM,Q13315,NM_000051.4(ATM):c.3967_3968inv (p.Lys1323Leu),1323.0,Lys,Leu,0,None,Uncertain significance,0
+4809381,ATM,Q13315,NM_000051.4(ATM):c.1495C>A (p.Gln499Lys),499.0,Gln,Lys,0,None,Uncertain significance,0
+4808321,ATM,Q13315,NM_000051.4(ATM):c.4998A>T (p.Glu1666Asp),1666.0,Glu,Asp,0,None,Uncertain significance,0
+4804370,ATM,Q13315,NM_000051.4(ATM):c.8995G>T (p.Asp2999Tyr),2999.0,Asp,Tyr,0,None,Uncertain significance,0
+4804369,ATM,Q13315,NM_000051.4(ATM):c.8078C>G (p.Ala2693Gly),2693.0,Ala,Gly,1,PI3K/PI4K catalytic,Uncertain significance,0
+4803825,ATM,Q13315,NM_000051.4(ATM):c.3926C>T (p.Ala1309Val),1309.0,Ala,Val,0,None,Uncertain significance,0
+4800507,ATM,Q13315,NM_000051.4(ATM):c.168T>A (p.Asn56Lys),56.0,Asn,Lys,0,None,Uncertain significance,0
+4800506,ATM,Q13315,NM_000051.4(ATM):c.44T>C (p.Leu15Pro),15.0,Leu,Pro,0,None,Uncertain significance,0
+4800505,ATM,Q13315,NM_000051.4(ATM):c.28A>C (p.Ile10Leu),10.0,Ile,Leu,0,None,Uncertain significance,0
+4797656,ATM,Q13315,NM_000051.4(ATM):c.7017G>T (p.Arg2339Ser),2339.0,Arg,Ser,1,FAT,Uncertain significance,0
+4780698,ATM,Q13315,NM_000051.4(ATM):c.6889C>A (p.Gln2297Lys),2297.0,Gln,Lys,1,FAT,Uncertain significance,0
+4778442,ATM,Q13315,NM_000051.4(ATM):c.5182A>G (p.Lys1728Glu),1728.0,Lys,Glu,0,None,Uncertain significance,0
+4777589,ATM,Q13315,NM_000051.4(ATM):c.206A>T (p.Gln69Leu),69.0,Gln,Leu,0,None,Uncertain significance,0
+4777532,ATM,Q13315,NM_152743.4(BRAT1):c.2294G>A (p.Gly765Glu),765.0,Gly,Glu,0,None,Uncertain significance,0
+4774513,ATM,Q13315,NM_000051.4(ATM):c.4763T>C (p.Phe1588Ser),1588.0,Phe,Ser,0,None,Uncertain significance,0
+4770362,ATM,Q13315,NM_152743.4(BRAT1):c.1886A>G (p.Gln629Arg),629.0,Gln,Arg,0,None,Uncertain significance,0
+4770265,ATM,Q13315,NM_000051.4(ATM):c.7589A>G (p.Lys2530Arg),2530.0,Lys,Arg,1,FAT,Uncertain significance,0
+4768568,ATM,Q13315,NM_000051.4(ATM):c.4864G>A (p.Glu1622Lys),1622.0,Glu,Lys,0,None,Uncertain significance,0
+4762469,ATM,Q13315,NM_000051.4(ATM):c.7111T>A (p.Tyr2371Asn),2371.0,Tyr,Asn,1,FAT,Uncertain significance,0
+4761909,ATM,Q13315,NM_000051.4(ATM):c.408T>G (p.Ile136Met),136.0,Ile,Met,0,None,Uncertain significance,0
+4761339,ATM,Q13315,NM_000051.4(ATM):c.233C>T (p.Ala78Val),78.0,Ala,Val,0,None,Uncertain significance,0
+4760322,ATM,Q13315,NM_152743.4(BRAT1):c.1460G>A (p.Cys487Tyr),487.0,Cys,Tyr,0,None,Uncertain significance,0
+4760239,ATM,Q13315,NM_000051.4(ATM):c.6775T>C (p.Ser2259Pro),2259.0,Ser,Pro,1,FAT,Uncertain significance,0
+4759098,ATM,Q13315,NM_000051.4(ATM):c.7522G>C (p.Gly2508Arg),2508.0,Gly,Arg,1,FAT,Uncertain significance,0
+4758742,ATM,Q13315,NM_000051.4(ATM):c.8696T>A (p.Ile2899Asn),2899.0,Ile,Asn,1,PI3K/PI4K catalytic,Uncertain significance,0

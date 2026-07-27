@@ -1,0 +1,31 @@
+clinvar_id,gene_symbol,uniprot_id,variant_title,protein_position,ref_aa,alt_aa,is_in_functional_domain,domain_name,clinical_significance,target_class
+4811916,TP53,P04637,NM_000546.6(TP53):c.274C>A (p.Pro92Thr),92,Pro,Thr,0,None,Uncertain significance,0
+4805463,TP53,P04637,NM_001143992.2(WRAP53):c.281A>G (p.Glu94Gly),94,Glu,Gly,0,None,Uncertain significance,0
+4805346,TP53,P04637,NM_000546.6(TP53):c.217G>C (p.Val73Leu),73,Val,Leu,0,None,Uncertain significance,0
+4800662,TP53,P04637,NM_000546.6(TP53):c.44G>T (p.Ser15Ile),15,Ser,Ile,0,None,Uncertain significance,0
+4800661,TP53,P04637,NM_000546.6(TP53):c.88A>T (p.Asn30Tyr),30,Asn,Tyr,0,None,Uncertain significance,0
+4800660,TP53,P04637,NM_000546.6(TP53):c.262G>A (p.Ala88Thr),88,Ala,Thr,0,None,Conflicting classifications of pathogenicity,0
+4800659,TP53,P04637,NM_000546.6(TP53):c.283T>C (p.Ser95Pro),95,Ser,Pro,0,None,Uncertain significance,0
+4800658,TP53,P04637,NM_000546.6(TP53):c.316A>T (p.Ser106Cys),106,Ser,Cys,0,None,Uncertain significance,0
+4800657,TP53,P04637,NM_000546.6(TP53):c.417G>C (p.Lys139Asn),139,Lys,Asn,0,None,Uncertain significance,0
+4800656,TP53,P04637,NM_000546.6(TP53):c.436T>C (p.Trp146Arg),146,Trp,Arg,0,None,Conflicting classifications of pathogenicity,0
+4800655,TP53,P04637,NM_000546.6(TP53):c.614A>T (p.Tyr205Phe),205,Tyr,Phe,0,None,Uncertain significance,0
+4800654,TP53,P04637,NM_000546.6(TP53):c.863A>G (p.Asn288Ser),288,Asn,Ser,0,None,Uncertain significance,0
+4800653,TP53,P04637,NM_000546.6(TP53):c.882G>T (p.Glu294Asp),294,Glu,Asp,0,None,Uncertain significance,0
+4800652,TP53,P04637,NM_000546.6(TP53):c.982T>G (p.Phe328Val),328,Phe,Val,0,None,Uncertain significance,0
+4800651,TP53,P04637,NM_000546.6(TP53):c.988C>G (p.Leu330Val),330,Leu,Val,0,None,Uncertain significance,0
+4800650,TP53,P04637,NM_000546.6(TP53):c.1109A>G (p.Lys370Arg),370,Lys,Arg,0,None,Uncertain significance,0
+4780865,TP53,P04637,NM_015713.5(RRM2B):c.858T>G (p.Ile286Met),286,Ile,Met,0,None,Uncertain significance,0
+4776110,TP53,P04637,NM_015713.5(RRM2B):c.349G>A (p.Val117Ile),117,Val,Ile,0,None,Uncertain significance,0
+4775188,TP53,P04637,NM_001143992.2(WRAP53):c.290A>G (p.Glu97Gly),97,Glu,Gly,0,None,Uncertain significance,0
+4774391,TP53,P04637,NM_015713.5(RRM2B):c.811C>A (p.Pro271Thr),271,Pro,Thr,0,None,Uncertain significance,0
+4769785,TP53,P04637,NM_015713.5(RRM2B):c.739T>G (p.Ser247Ala),247,Ser,Ala,0,None,Uncertain significance,0
+4760586,TP53,P04637,NM_000546.6(TP53):c.1173C>A (p.Asp391Glu),391,Asp,Glu,0,None,Uncertain significance,0
+4759033,TP53,P04637,NM_000546.6(TP53):c.554_555delinsTT (p.Ser185Ile),185,Ser,Ile,0,None,Uncertain significance,0
+4756723,TP53,P04637,NM_000546.6(TP53):c.183T>G (p.Asp61Glu),61,Asp,Glu,0,None,Uncertain significance,0
+4753496,TP53,P04637,NM_001143992.2(WRAP53):c.775G>A (p.Ala259Thr),259,Ala,Thr,0,None,Uncertain significance,0
+4753418,TP53,P04637,NM_000546.6(TP53):c.868C>A (p.Arg290Ser),290,Arg,Ser,0,None,Uncertain significance,0
+4752868,TP53,P04637,NM_001143992.2(WRAP53):c.205G>A (p.Glu69Lys),69,Glu,Lys,0,None,Uncertain significance,0
+4748399,TP53,P04637,NM_001143992.2(WRAP53):c.433G>C (p.Ala145Pro),145,Ala,Pro,0,None,Uncertain significance,0
+4748000,TP53,P04637,NM_000546.6(TP53):c.1019T>C (p.Met340Thr),340,Met,Thr,0,None,Uncertain significance,0
+4746616,TP53,P04637,NM_015713.5(RRM2B):c.190T>G (p.Trp64Gly),64,Trp,Gly,0,None,Uncertain significance,0
