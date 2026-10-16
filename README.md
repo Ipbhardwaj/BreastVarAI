@@ -1,4 +1,4 @@
-\# BreastVarAI 🧬💻
+\# BreastVarAI 
 
 
 
@@ -30,29 +30,29 @@
 
 ```text
 
-&#x20; ClinVar / COSMIC / gnomAD Variants (BRCA1, BRCA2, PALB2, TP53, CHEK2, ATM)
+ ClinVar / COSMIC / gnomAD Variants (BRCA1, BRCA2, PALB2, TP53, CHEK2, ATM)
 
-&#x20;                                     │
+                                    │
 
-&#x20;                                     ▼
+                                    ▼
 
-&#x20;                3D Structural Mapping (AlphaFold DB / PDB)
+                3D Structural Mapping (AlphaFold DB / PDB)
 
-&#x20;                                     │
+                                     │
 
-&#x20;                                     ▼
+                                     ▼
 
-&#x20;           Biophysical Feature Extraction (SASA, Secondary Structure, ΔΔG)
+          Biophysical Feature Extraction (SASA, Secondary Structure, ΔΔG)
 
-&#x20;                                     │
+                                   │
 
-&#x20;                                     ▼
+                                    ▼
 
-&#x20;            Ensemble AI Classifiers (XGBoost / LightGBM / Random Forest)
+           Ensemble AI Classifiers (XGBoost / LightGBM / Random Forest)
 
-&#x20;                                     │
+                                    │
 
-&#x20;                                     ▼
+                                     ▼
 
-&#x20;             TreeSHAP Feature Attribution \& Pathogenicity Scores
+             TreeSHAP Feature Attribution \& Pathogenicity Scores
 
